@@ -1,5 +1,5 @@
 
-# PointNet from Scratch in PyTorch (Google Colab)
+PointNet from Scratch in PyTorch (Google Colab)
 
 This project is a clean **from-scratch implementation of the PointNet architecture** for 3D point cloud classification using **PyTorch**.
 
