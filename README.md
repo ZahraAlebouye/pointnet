@@ -22,7 +22,9 @@ The work has been entirely done and tested on **Google Colab**, allowing for eas
 - Trained and evaluated on the **ModelNet40 dataset**, fully inside **Google Colab**.
 
 ---
+## 🖼️ PointNet Architecture
 
+![PointNet Architecture](https://raw.githubusercontent.com/charlesq34/pointnet/master/doc/pointnet_architecture.png)
 ## 🔧 Technologies Used
 
 - Python 3.x
