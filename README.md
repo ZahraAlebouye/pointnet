@@ -24,7 +24,7 @@ The work has been entirely done and tested on **Google Colab**, allowing for eas
 ---
 ## 🖼️ PointNet Architecture
 
-![PointNet Architecture](https://raw.githubusercontent.com/charlesq34/pointnet/master/doc/pointnet_architecture.png)
+![PointNet Architecture](https://www.researchgate.net/profile/Charles-Qi-3/publication/347534473/figure/fig2/AS:963659509784576@1607445782142/PointNet-architecture.png)
 ## 🔧 Technologies Used
 
 - Python 3.x
